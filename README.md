@@ -1,6 +1,28 @@
 # Food-website
 Food Website for Restaurant
 
+###🧐 About
+
+A restaurant website is a business website that aims to provide information on their menu, service, location, and other services. It also provides directions to the restaurant.
+It may also offer promotional discounts and special offers from the restaurants along with recipes created by chefs. The goal of a restaurant website is to help consumers find an establishment that best fits their needs.
+
+###Prerequisites
+
+Understanding of HTML, CSS, and JavaScript: React is built on top of these web technologies, so having a solid understanding of them is essential.
+
+###🎈 Usage
+Responsive design: Ensure that your website is optimized for mobile and tablet devices, as many users will be accessing it on-the-go.The home page of your website should provide an overview of your services and highlight popular Delicious dishes and other offers and gift vouchers.
+
+###✍️ Authors 
+
+
+
+
+
+
+
+
+
 ![book-a-table](https://github.com/Keenu22/Food-website/assets/128450063/a1520f57-b354-4b6c-b70a-bc11feb29ea8)
 ![crown-symbol](https://github.com/Keenu22/Food-website/assets/128450063/59160ca1-e665-44c7-9545-3b034acd57d7)
 ![desserts](https://github.com/Keenu22/Food-website/assets/128450063/a2c94dc4-011d-4f64-9873-f32f14ef9f8f)
